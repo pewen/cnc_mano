@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# For Ipython
+.ipynb_checkpoints/
+
+# C and Fortran extensions
+*.so
+*.o
+
+# For emacs
+*~
+\#*
+.#*
+
+# Some directorys
+output
+doc_ref
